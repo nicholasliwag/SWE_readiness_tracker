@@ -1,7 +1,10 @@
-| SWE Readiness Tracker |
+SWE Readiness Tracker
+---
+
+| |
 | --- |
 |a full 9-month day-by-day tracker for your SWE internship readiness| 
-| It's organized so that each day is manageable (~30–60 min sessions), alternating coding practice, app-building, and reflection, and progressively ramps up difficulty while building a portfolio.|
+|organized so that each day is manageable (~30–60 min sessions), alternating coding practice, app-building, and reflection, and progressively ramps up difficulty while building a portfolio.|
 ---
 
 9-Month SWE Internship Daily Tracker (36 Weeks / ~9 Months)
