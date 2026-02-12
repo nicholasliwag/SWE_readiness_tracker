@@ -1,7 +1,7 @@
 | SWE Readiness Tracker |
 | --- |
 |a full 9-month day-by-day tracker for your SWE internship readiness| 
-I’ll organize it so that each day is manageable (~30–60 min sessions), alternating coding practice, app-building, and reflection, and progressively ramps up difficulty while building a portfolio.|
+| It's organized so that each day is manageable (~30–60 min sessions), alternating coding practice, app-building, and reflection, and progressively ramps up difficulty while building a portfolio.|
 
 ⸻
 
@@ -12,7 +12,7 @@ I’ll organize it so that each day is manageable (~30–60 min sessions), alter
 | C | Coding problem (LeetCode / HackerRank / Codewars) |
 | A | App feature (web or mobile mini-project) |
 | R | Reflection & GitHub update |
-	•	Optional: Extra coding practice if you have time
+|Optional| Extra coding practice if I have time|
 
 ⸻
 
