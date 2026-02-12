@@ -2,8 +2,7 @@
 | --- |
 |a full 9-month day-by-day tracker for your SWE internship readiness| 
 | It's organized so that each day is manageable (~30–60 min sessions), alternating coding practice, app-building, and reflection, and progressively ramps up difficulty while building a portfolio.|
-
-⸻
+---
 
 9-Month SWE Internship Daily Tracker (36 Weeks / ~9 Months)
 
@@ -79,9 +78,7 @@ Phase 4 – Apply & Interview (Weeks 25–36)
 | 34	| C: Light coding review	| C: 1 problem	| A: Minor tweak	| C: Review	| A: Portfolio check	| Optional	| R: GitHub |
 | 35	| C: 1–2 problems	| C: Review	| A: Optional polish	| C: Mock interview	| A: GitHub update	| Optional	| R: Reflection |
 | 36	| C: 2 coding problems	| C: 1 problem	| A: Final polish	| C: Review	| A: Celebrate progress	| Optional	| R: Portfolio & GitHub final |
-
-
-⸻
+---
 
 | ✅ How to Use This Daily Tracker |
 | --- |
@@ -90,8 +87,7 @@ Phase 4 – Apply & Interview (Weeks 25–36)
 |	3.	Keep coding problems beginner → easy-medium initially, then timed problems after Month 4. |
 |	4.	Optional tasks are for extra practice if you have time. |
 |	5.	Reflection days help track learning, confidence, and problem-solving growth. |
-
-⸻
+---
 
 | End Result After 9 Months |
 | --- |
